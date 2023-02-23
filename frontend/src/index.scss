@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Poppins:wght@200;300;400;500;800&display=swap');
+@import "assets/scss/login";
+@import "assets/scss/header.scss";
+@import "assets/scss/nav.scss";
+@import "assets/scss/topHeaderInfo.scss";
+@import "assets/scss/basicInfo.scss";
+@import "assets/scss/homeSlider.scss";
+@import "assets/scss/categories.scss";
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: 'Poppins', sans-serif;
+}
